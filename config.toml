@@ -10,13 +10,6 @@ Paginate = 4 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = "G-P8BT5RHBNW"
 enableRobotsTXT = true
 
-[languages]
-  [languages.en]
-    title = "TribeTies"
-    weight = 1
-    contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
-
 [params]
   text_color = ""
   author = ""

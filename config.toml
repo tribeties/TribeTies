@@ -1,5 +1,5 @@
 title = "Tribe Ties: Building Strength Through Shared Struggles"
-baseURL = "https://tribeties.github.io/TribeTies"
+baseURL = "https://tribeties.github.io/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
